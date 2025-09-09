@@ -8,7 +8,7 @@ Este programa te muestra información actualizada cada 2 segundos sobre:
 
 - **Memoria RAM**: Total, libre, disponible y usada
 - **Memoria Swap**: Total, libre y usada (memoria virtual)
-- **⚡ CPU**: Modelo del procesador, número de cores y carga de cada core
+- **CPU**: Modelo del procesador, número de cores y carga de cada core
 
 
 ## Estructura del proyecto
